@@ -31,7 +31,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: Arial, sans-serif; /* Simple, clean font */
-	background: #white; /* Light background color */
+	background: #757c85; /* Light background color */
 	color:  #333;
 }
 
@@ -65,6 +65,7 @@ body {
 .hero h1 {
 	margin: 10px 0 5px 0;
 	font-size: 2em;
+  color: #fff;
 }
 .hero p {
 	margin: 0 0 10px 0;
@@ -74,14 +75,13 @@ body {
 /* Bio Section Styles */
 .bio {
 		background: #fff;
-		margin: 30px auto;
+		margin: 40px auto 0 auto;
 		max-width: 600px;
-		padding: 20px;
+		padding: 24px;
 		border-radius: 8px;
 		box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 		border: 5px solid #1976d2; /* Big blue outline */
 	}
-}
 .bio h2 {
 	margin-top: 0;
 }
@@ -89,14 +89,13 @@ body {
 /* Skills Section Styles */
 .skills {
 		background: #fff;
-		margin: 30px auto;
+		margin: 40px auto 0 auto;
 		max-width: 600px;
-		padding: 20px;
+		padding: 24px;
 		border-radius: 8px;
 		box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 		border: 5px solid #43a047; /* Big green outline */
 	}
-}
 .skills h2 {
 	margin-top: 0;
 }
@@ -130,5 +129,4 @@ body {
 		background: #1976d2;
 		color: #fff;
 	}
-}
 /* You can add more styles as you learn */
